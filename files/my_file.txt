@@ -1,0 +1,6 @@
+This is the first line
+here are the numbers 12345
+Another line with text and numbers
+Appending line 1
+67890
+Appending line 2
